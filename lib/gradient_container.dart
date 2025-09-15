@@ -10,7 +10,7 @@ class GradientContainer extends StatelessWidget {
         gradient: LinearGradient(
           colors: [
             Color.fromARGB(255, 182, 25, 25),
-            Color.fromARGB(255, 255, 255, 255),
+            Color.fromARGB(255, 214, 135, 135),
           ],
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
